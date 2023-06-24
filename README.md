@@ -4,7 +4,7 @@
 - 🔭 I'm an Aspiring Data Scientist
 - 🌱 I’m currently working on Data Science Projects
 - 💬 Five months Intership experience as Data Scientist with Zigram
-- 📫 How to reach me: ghmvij@gmail.com
+- 📫 How to reach me: ghmcmy@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gongalla-Hema&label=Profile%20views&color=0e75b6&style=flat" alt="Gongalla Hema" /> </p>
 
